@@ -1,0 +1,18 @@
+# === General ===
+.DS_Store
+*.log
+.env
+
+# === Node (frontend) ===
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.env*
+
+# === Java (backend) ===
+backend/target/
+*.class
+*.jar
+*.war
+backend/.env
+
