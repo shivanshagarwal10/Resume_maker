@@ -54,14 +54,11 @@ Resume_maker/
 
 ### ▶️ Run Backend
 
-```bash
+
 cd backend
 ./mvnw spring-boot:run
 Or with Maven:
 
-bash
-Copy
-Edit
 cd backend
 mvn clean install
 mvn spring-boot:run
@@ -89,9 +86,6 @@ Edit
 VITE_API_URL=http://localhost:8080
 You can provide .env.example files in both folders for sharing without secrets.
 
-📸 Screenshots
-You can drop in screenshots or GIFs here to show the UI/UX.
-
 📚 Credits
 Spring AI
 
@@ -106,23 +100,9 @@ Shivansh Agarwal
 
 Java Developer | Full-Stack Enthusiast | AI Integration Explorer
 
-LinkedIn • GitHub
+• LinkedIn -> https://www.linkedin.com/in/shivansh-agarwal-887657234/
+• GitHub   -> https://github.com/shivanshagarwal10
 
 ⭐️ If you liked this project...
 Give it a star ⭐️ on GitHub — it helps!
 
-yaml
-Copy
-Edit
-
----
-
-### 🔄 What to Replace
-
-- Add your **LinkedIn**, **GitHub**, and optional **Live Demo** link
-- Replace `.env` values based on your real usage
-- Optional: Add screenshot images to boost visual appeal
-
----
-
-Would you like me to generate the `.env.example` files as well?
